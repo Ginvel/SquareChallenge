@@ -1,0 +1,8 @@
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\bin\Release\Test.exe.config
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\bin\Release\Test.exe
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\bin\Release\Test.pdb
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\bin\Release\SquareChallenge.dll
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\bin\Release\SquareChallenge.pdb
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\obj\Release\Test.exe
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\Test\obj\Release\Test.pdb

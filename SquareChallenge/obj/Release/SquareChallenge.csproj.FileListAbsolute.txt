@@ -1,0 +1,5 @@
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\SquareChallenge\bin\Release\packages.config
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\SquareChallenge\bin\Release\SquareChallenge.dll
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\SquareChallenge\bin\Release\SquareChallenge.pdb
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\SquareChallenge\obj\Release\SquareChallenge.dll
+C:\Solutions\SquareChallenge\SquareChallenge\SquareChallenge\SquareChallenge\obj\Release\SquareChallenge.pdb
